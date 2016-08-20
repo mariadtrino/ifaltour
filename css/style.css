@@ -1,0 +1,30 @@
+html{
+  background: url('../assets/bg.jpg') no-repeat center center fixed;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+}
+.container{
+  height: 100vh;
+  background-color: rgba(34,56,67,0.5);
+  overflow: hidden;
+}
+.para-class{
+  width:600px;
+  margin:200px auto;
+
+}
+p,h1{
+      font-family: "Century Gothic","Lucida Grande",Arial,sans-serif;
+}
+
+.para-class h1{
+  color: #ffffff;
+  font-size: 60px;
+  margin-bottom: 10px;
+}
+.para-class span{
+  font-weight: 800;
+
+}
